@@ -1,0 +1,4 @@
+pyinstaller --onefile app.py
+
+in case open cv doesnt work in exe run the below command
+pyinstaller -F --add-data C:\D\Installations\Anaconda\envs\tensorflow_env\Lib\site-packages\cv2\opencv_ffmpeg410_64.dll;. app.py
