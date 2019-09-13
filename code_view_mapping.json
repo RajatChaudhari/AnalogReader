@@ -1,0 +1,16 @@
+{
+    "Img_Straight" : "\\data\\straight_noOffset.jpg",
+    "Img_Bias" : "\\data\\bias_noOffset.jpg",
+    "Img_Offset" : "\\data\\straight_Offset.jpg",
+    "Img_Bias_Offset" : "\\data\\bias_offset.jpg",
+    "Video_Moving" : "\\data\\straight_noOffset_Moving_1.avi",
+    "Video_StraightH":"\\data\\straight_noOffset_notMoving.avi",
+    "Video_StraightV":"\\data\\straight_fullCIrcle_1.avi",
+    "Straight_Offset_3":"\\data\\Straight_Offset_3.jpg",
+    "frame1":"\\data\\frame1.jpg",
+    "PL22-LAB-AS" : "\\data\\straight_Offset.jpg",
+	"PL22-LAB-MG" : "\\data\\straight_noOffset_notMoving.avi",
+	"PL22-LAB-WG" : "\\Live_Feed",
+	"PL22-LAB-PR" : "\\data\\LF1.jpg"
+
+}

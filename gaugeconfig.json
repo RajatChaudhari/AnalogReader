@@ -1,0 +1,21 @@
+{
+"calibration":{
+    "min_angle" : 0,
+    "max_angle" : 359,
+    "min_value" : 0 ,
+    "max_value" : 99,
+    "units" : "mm"
+},
+"reference_image":"\\ReferenceImages\\ReferenceImage_10.jpg",
+"reference_image1":"\\ReferenceImages\\ReferenceImage_1.jpg",
+"reference_image2":"\\ReferenceImages\\ReferenceImage_2.jpg",
+"reference_image3":"\\ReferenceImages\\ReferenceImage_3.jpg",
+"reference_image4":"\\ReferenceImages\\ReferenceImage_4.jpg",
+
+"log_dir":"\\Logdir\\",
+"type_of_image":"jpg",
+"debug":"True",
+"frames_to_process":20,
+"camera":0,
+"remove_outliers":"True"
+}
